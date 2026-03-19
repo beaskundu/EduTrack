@@ -1,0 +1,59 @@
+# EduTrack AI: Adaptive Student Insight System
+
+##  Overview
+
+EduTrack AI is a Java-based CLI application that not only manages student records but also provides **performance insights and risk prediction**.
+
+---
+
+##  Features
+
+*  Add student records (ID, Name, Marks)
+*  View all students
+*  Search by ID
+*  Find topper
+*  Calculate average marks
+*  Performance classification (High / Average / Needs Attention)
+*  Risk prediction (identifies failing students)
+*  Persistent storage using file handling
+
+---
+
+##  Tech Stack
+
+* Java
+* OOP Concepts
+* File Handling (BufferedReader, FileWriter)
+* Collections (ArrayList)
+
+---
+
+##  Unique Feature
+
+Unlike traditional systems, EduTrack AI includes a **rule-based analytics engine** that:
+
+* Classifies student performance
+* Predicts academic risk
+* Simulates real-world intelligent systems
+
+---
+
+##  How to Run
+
+1. Open in Eclipse or any Java IDE
+2. Run `Main.java`
+3. Use menu options to interact
+
+---
+
+##  Future Enhancements
+
+* GUI using JavaFX
+* Database integration (MySQL)
+* Advanced analytics using ML
+
+---
+
+##  Author
+
+Beas Kundu
